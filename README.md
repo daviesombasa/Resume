@@ -1,11 +1,14 @@
 # Resume
 A walk through my life's journey
+
+<!--Introduction Section-->
 <h2>Self Bio</h2>
   <p>
-    A graduate in Electrical and Telecommunication Engineering (B.Sc), with two years of experience setting up wireless and ﬁber networks. Trained cybersecurity         professional with one year of experience in designing secure networks, performing vulnerability assessments, and formulating cybersecurity policies aligned with     business objective.
+    A graduate in Electrical and Telecommunication Engineering (B.Sc), with two years of experience setting up wireless and ﬁber networks. Trained cybersecurity       professional with one year of experience in designing secure networks, performing vulnerability assessments, and formulating cybersecurity policies aligned       with business objective.
   <p>
   <hr>
   
+ <!--Skills Set Section--> 
  <h2>Skills</h2> 
   <table>
     <tr>
@@ -18,25 +21,34 @@ A walk through my life's journey
     </tr>
     <tr>
       <td>Cybersecurity Policy Formulation </td>
-      <td>Power setups deployment/td>
+      <td>Power setups deployment</td>
     </tr>
   </table>
   <hr>
   
+ <!-- Professional Training Section-->
  <h2>Professional Training</h2>
  <table>
     <tr>
       <th>Duration</th>
       <th>Organization</th>
       <th>Programme</th>
+      <th>Training Course</th>
     </tr>
     <tr>
       <td>Jan 2021 -September 2021</td>
       <td>eKRAAL Innovation Hub</td>
       <td>National Cybersecurity Training Program</td>
-    </tr>
-  </table>
-    <hr>
+      <td> 
+      1. Designing enterprise networks and systems.<br>
+      2. Vulnerability assessment and penetration testing<br>
+      3. Setting up and securing various cloud solutions<br>
+      </td>
+    </tr>     
+    <hr> 
+  <table>
+    
+ <!-- Work Experience Section --> 
  <h2>Work Experience</h2>
  <table>
     <tr>
