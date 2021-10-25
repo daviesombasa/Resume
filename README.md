@@ -17,7 +17,46 @@ A walk through my life's journey
       <td>Website Network Vulnerability Assessment</td>
     </tr>
     <tr>
-      <td> Cybersecurity Policy Formulation </td>
+      <td>Cybersecurity Policy Formulation </td>
       <td>Power setups deployment/td>
     </tr>
   </table>
+  <hr>
+  
+ <h2>Professional Training</h2>
+ <table>
+    <tr>
+      <th>Duration</th>
+      <th>Organization</th>
+      <th>Programme</th>
+    </tr>
+    <tr>
+      <td>Jan 2021 -September 2021</td>
+      <td>eKRAAL Innovation Hub</td>
+      <td>National Cybersecurity Training Program</td>
+    </tr>
+  </table>
+    <hr>
+ <h2>Work Experience</h2>
+ <table>
+    <tr>
+      <th>Duration</th>
+      <th>Organization</th>
+      <th>Responsibility</th>
+    </tr>
+    <tr>
+      <td><b>July 2019 - June 2020</b></td>
+      <td>Poa! Internet Kenya</td>
+      <td>Network Infrastructure Engineer</td>
+    </tr>
+    <tr>
+      <td><b>May 2019 - June 2019</b></td>
+      <td>Unitel Services Limited Kenya</td>
+      <td>Customer Installation Engineer</td>
+    </tr>
+    <tr>
+      <td><b>April 2016 - July 2016</b></td>
+      <td>Airtel Networks Kenya</td>
+      <td>Network Engineer</td>
+    </tr>
+    <hr>
