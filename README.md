@@ -1,5 +1,5 @@
 # Resume
-### A walk through my life's journey
+### My life's journey walk-through 
 
 <!--Introduction Section-->
 <h2>Self Bio</h2>
