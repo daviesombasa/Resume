@@ -1,5 +1,5 @@
 # Resume
-A walk through my life's journey
+### A walk through my life's journey
 
 <!--Introduction Section-->
 <h2>Self Bio</h2>
@@ -57,16 +57,29 @@ A walk through my life's journey
       <td><b>July 2019 - June 2020</b></td>
       <td>Poa! Internet Kenya</td>
       <td>Network Infrastructure Engineer</td>
+      <td> 
+      1. Designed, installed, and maintained wireless and networks.<br>
+      2. Coordinated and supervised the roll-out of fiber networks.<br>
+      3. Documentation of site installation guidelines and fiber layout structure.
+      </td>
     </tr>
     <tr>
       <td><b>May 2019 - June 2019</b></td>
       <td>Unitel Services Limited Kenya</td>
       <td>Customer Installation Engineer</td>
+      <td> 
+      1. Managed and handled setup of customers' internet connections.<br>
+      2. Achieved an end-to-end customer installation setup within three weeks of induction.      
+      </td>
     </tr>
     <tr>
       <td><b>April 2016 - July 2016</b></td>
       <td>Airtel Networks Kenya</td>
       <td>Network Engineer</td>
+      <td> 
+      1.Responsible for carrying out maintenance work on the network base stations.<br>
+      2. Carried out network surveys to determine network coverage for the base stations.
+      </td>
     </tr>
     </table>
     <hr>
