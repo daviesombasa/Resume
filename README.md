@@ -45,6 +45,33 @@
     </tr>      
   <table>
   <hr>
+    
+ <!-- Professional Certifications Section-->
+ <h2>Professional Certifications</h2>
+ <table>
+    <tr>
+      <th>Certification</th>
+      <th>Institution</th>
+      <th>Completion</th>     
+    </tr> 
+   <tr>
+      <td>1. Certified Ethical Hacker</td>
+      <td>EC-Council</td>
+      <td>On-going</td>     
+    </tr>
+   <tr>
+      <td>
+        1. Cybersecurity Essentials <br>
+        2. Introduction to Cybersecurity <br>
+        3. Linux Essentials <br>
+        4. Networking Essentials <br>
+        5. Introdution to Networks <br>
+        </td>
+      <td>Cisco Networking Academy</td>
+      <td>2021</td>     
+    </tr>
+  <table>
+  <hr>
  <!-- Work Experience Section --> 
  <h2>Work Experience</h2>
  <table>
