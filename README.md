@@ -51,6 +51,7 @@
     <tr>
       <th>Duration</th>
       <th>Organization</th>
+      <th>Position</th>
       <th>Responsibility</th>
     </tr>
     <tr>
