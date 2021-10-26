@@ -72,6 +72,7 @@
     </tr>
   <table>
   <hr>
+ 
  <!-- Work Experience Section --> 
  <h2>Work Experience</h2>
  <table>
@@ -111,3 +112,24 @@
     </tr>
     </table>
     <hr>
+    
+  <!-- Educational Background -->
+  <h2>Educational Background</h2>
+    <table>
+    <tr>
+      <th>Course</th> 
+      <th>Institution</th>
+      <th>Completion</th>      
+    </tr>
+    <tr>
+      <td>B.Sc Electrical and Telecommunication Engineering</td> 
+      <td>Multimedia University of Kenya -Graduated with second class upper division honors</td>
+      <td>2019</td>      
+    </tr>
+    </table>
+    
+<!--     <div align="center">
+    <p>Without committment, you'll never start.<br>
+      Without consitence, you'll never finish. </p>
+    </div> -->
+    
