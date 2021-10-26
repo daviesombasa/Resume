@@ -14,13 +14,11 @@ A walk through my life's journey
     <tr>
       <td>Secure Network Design</td>
       <td>Designing wireless and fiber infrastructure</td>
+      <td>Cybersecurity Policy Formulation </td>
     </tr>
     <tr>
       <td>Cloud infrastructure deployment</td>
       <td>Website Network Vulnerability Assessment</td>
-    </tr>
-    <tr>
-      <td>Cybersecurity Policy Formulation </td>
       <td>Power setups deployment</td>
     </tr>
   </table>
@@ -44,10 +42,9 @@ A walk through my life's journey
       2. Vulnerability assessment and penetration testing<br>
       3. Setting up and securing various cloud solutions<br>
       </td>
-    </tr>     
-    <hr> 
+    </tr>      
   <table>
-    
+  <hr>
  <!-- Work Experience Section --> 
  <h2>Work Experience</h2>
  <table>
@@ -71,4 +68,5 @@ A walk through my life's journey
       <td>Airtel Networks Kenya</td>
       <td>Network Engineer</td>
     </tr>
+    </table>
     <hr>
