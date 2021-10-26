@@ -128,8 +128,4 @@
     </tr>
     </table>
     
-<!--     <div align="center">
-    <p>Without committment, you'll never start.<br>
-      Without consitence, you'll never finish. </p>
-    </div> -->
-    
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23AC0606&vCenter=true&multiline=true&width=500&height=60&lines=Without+committment%2C+you'll+never+start.++++++;Without+consitency%2C+you'll+never+finish.)](https://git.io/typing-svg)
