@@ -40,9 +40,10 @@
       <td>eKRAAL Innovation Hub</td>
       <td>National Cybersecurity Training Program</td>
       <td> 
-      1. Designing enterprise networks and systems.<br>
-      2. Vulnerability assessment and penetration testing<br>
-      3. Setting up and securing various cloud solutions<br>
+       <ol>        
+        <li>Designing enterprise networks and systems.</li>
+        <li>Vulnerability assessment and penetration testing.</li>
+        <li>Setting up and securing various cloud solutions.</li>
       </td>
     </tr>      
   <table>
@@ -56,22 +57,29 @@
       <th>Institution</th>
       <th>Completion</th>     
     </tr> 
-   <tr>
-      <td>1. Certified Ethical Hacker</td>
-      <td>EC-Council</td>
+    <tr>
+      <td><ol><li>Certified Ethical Hacker</li><ol></td>
+       <td><a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/">EC-Council</a></td>
       <td>On-going</td>     
     </tr>
-   <tr>
-      <td>
-        1. Cybersecurity Essentials <br>
-        2. Introduction to Cybersecurity <br>
-        3. Linux Essentials <br>
-        4. Networking Essentials <br>
-        5. Introdution to Networks <br>
-        </td>
-      <td>Cisco Networking Academy</td>
-      <td>2021</td>     
+    <tr>
+      <td><ol><li>Python For Pentesters</li><ol></td>
+       <td><a href="https://codered.eccouncil.org/">Codered</a></td>
+      <td>On-going</td>     
     </tr>
+    <tr>
+      <td>
+       <ol>
+        <li>Cybersecurity Essentials. </li>
+        <li>Introduction to Cybersecurity. </li>
+        <li>Linux Essentials. </li>
+        <li>Networking Essentials. </li>
+        <li>Introdution to Networks. </li>
+       </ol>
+        </td>
+     <td><a href="https://www.netacad.com/">Cisco Networking Academy</a></td>
+      <td>2021</td>     
+     </tr>
   <table>
   <hr>
  
@@ -89,9 +97,11 @@
       <td>Poa! Internet Kenya</td>
       <td>Network Infrastructure Engineer</td>
       <td> 
-      1. Designed, installed, and maintained wireless and networks.<br>
-      2. Coordinated and supervised the roll-out of fiber networks.<br>
-      3. Documentation of site installation guidelines and fiber layout structure.
+       <ol>
+        <li>Designed, installed, and maintained wireless and networks.</li>
+        <li>Coordinated and supervised the roll-out of fiber networks.</li>
+        <li>Documentation of site installation guidelines and fiber layout structure.</li>
+       </ol>
       </td>
     </tr>
     <tr>
@@ -99,8 +109,10 @@
       <td>Unitel Services Limited Kenya</td>
       <td>Customer Installation Engineer</td>
       <td> 
-      1. Managed and handled setup of customers' internet connections.<br>
-      2. Achieved an end-to-end customer installation setup within three weeks of induction.      
+       <ol>
+        <li>Managed and handled setup of customers' internet connections.</li>
+        <li>Achieved an end-to-end customer installation setup within three weeks of induction.</li>
+       </ol>
       </td>
     </tr>
     <tr>
@@ -108,8 +120,10 @@
       <td>Airtel Networks Kenya</td>
       <td>Network Engineer</td>
       <td> 
-      1.Responsible for carrying out maintenance work on the network base stations.<br>
-      2. Carried out network surveys to determine network coverage for the base stations.
+       <ol>
+        <li>Responsible for carrying out maintenance work on the network base stations.</li>
+        <li>Carried out network surveys to determine network coverage for the base stations.</li>
+       </ol>
       </td>
     </tr>
     </table>
