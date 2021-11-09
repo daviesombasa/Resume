@@ -1,4 +1,4 @@
-# Resume
+# RESUME
 ### My life's journey walk-through 
  
 <a href="https://drive.google.com/file/d/1eca0BbF02EOSsiBwqokW-d2CXfOK0VkX/view">Download this RESUME</a>
