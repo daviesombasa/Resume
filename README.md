@@ -1,6 +1,8 @@
 # Resume
 ### My life's journey walk-through 
-
+ 
+<a href="https://drive.google.com/file/d/1eca0BbF02EOSsiBwqokW-d2CXfOK0VkX/view">Download this RESUME</a>
+ 
 <!--Introduction Section-->
 <h2>Self Bio</h2>
   <p>
@@ -128,4 +130,7 @@
     </tr>
     </table>
     
+ 
+<a href="https://drive.google.com/file/d/1eca0BbF02EOSsiBwqokW-d2CXfOK0VkX/view">Download this RESUME</a>
+  
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23AC0606&vCenter=true&width=1000&height=60&lines=Without+committment%2C+you'll+never+start.+Without+consitency%2C+you'll+never+finish.++++++)](https://git.io/typing-svg)
